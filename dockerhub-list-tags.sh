@@ -50,4 +50,4 @@ dockerhub_list_tags()
 
 
 # Test example
-dockerhub_list_tags "library/nginx" false
+#dockerhub_list_tags "library/nginx" false
