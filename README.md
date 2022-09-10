@@ -1,5 +1,8 @@
 # dockerhub-tools
- 
+
+------------------------
+dockerhub-list-tags.sh:
+------------------------ 
 Objectives:
 1. Return all tags for a specified image name from docker hub
 Required:
